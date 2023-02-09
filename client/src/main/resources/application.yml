@@ -1,0 +1,7 @@
+
+app:
+  server: 'http://localhost:8080/api/users'
+  routes:
+    users: '/users'
+    accounts: '/accounts'
+  encoding: 'utf-8'
